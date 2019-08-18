@@ -10,7 +10,6 @@ With the advent of AI, we can now create digital doppelgangers of anyone with ju
 I used GANs to generate the morphed images/videos and used Deep Learning models like VGG'16 to detect forgery in images. [[Report Link]](https://github.com/aksh98/BiometricsProject/blob/master/Project\%20Report.pdf)
 
 ## Github User Recommendation system 
-% \location{}
 Recommended Github Users for Github Projects/Organizations based on the user's activities in Github and StackOverflow.
 [[Github Link]](https://github.com/aksh98/Github_StackOverflow_Recommendation) 
 
@@ -25,7 +24,7 @@ Made flex sensor gloves which detects hand gestures and automatically controls o
 
 ## Safe-First: Safety Device for Women 
 A safety device which sends alert to 5 emergency contacts on receiving a pre-defined custom gesture notifying danger.
-[[Github Page]] (https://aksh98.github.io/SafeFirst/)
+[[Github Page]](https://aksh98.github.io/SafeFirst/)
 
 ## Rental Management System 
 A Django-based WebApp to find the appropriate rentals for the user.[[Github Page]](https://github.com/aksh98/Rental_Management_System)
