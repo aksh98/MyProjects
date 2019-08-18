@@ -1,5 +1,5 @@
 # MyProjects
-A list of my projects I've worked on until now.
+A list of projects I've worked on:
 
 
 ## Augmented Reality Helmets for kids 
