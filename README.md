@@ -1,7 +1,4 @@
-A list of projects I've worked on:
-
 # AI based projects
------------------
 
 ## Augmented Reality Helmets for kids 
 Made interactive helmets to make kids' journeys interesting and informational. A step to reduce accident deaths due to absence of helmets in pillion riders [[Github Link]](https://github.com/aksh98/ARHelmetForKids)
@@ -31,7 +28,6 @@ A safety device which sends alert to 5 emergency contacts on receiving a pre-def
 [[Github Page]](https://aksh98.github.io/SafeFirst/)
 
 # Development 
----------------------------
 
 ## Krishi-Seva (Farmer Friendly app)
 It's a smart web-app for farmers which recommends crops according to the data collected by ICAR, the climatic conditions and the water availability in that area. You can also buy/sell your crops using that app. [[Github Link]](https://github.com/aksh98/Krishi-Seva)
