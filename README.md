@@ -1,8 +1,5 @@
 # AI based projects
 
-## Augmented Reality Helmets for kids 
-Made interactive helmets to make kids' journeys interesting and informational. A step to reduce accident deaths due to absence of helmets in pillion riders [[Github Link]](https://github.com/aksh98/ARHelmetForKids)
-
 ## Detecting Combined Identities 
 With the advent of AI, we can now create digital doppelgangers of anyone with just some hours of videos given as input for training. One of the papers presented in Siggraph’17 titled “Synthesizing Obama: Lip sync from Audio”.
 I used GANs to generate the morphed images/videos and used Deep Learning models like VGG'16 to detect forgery in images. [[Report Link]](https://github.com/aksh98/BiometricsProject/blob/master/Project\%20Report.pdf)
@@ -13,6 +10,9 @@ Recommended Github Users for Github Projects/Organizations based on the user's a
 
 ## Audio Super-Resolution 
 Used 5 Machine Learning models (GANs, Hidden Markov Model, AutoEncoder, Convolutional Neural Network and Long Short-Term Memory Network) to generate a high resolution signal from a low resolution audio with a smaller sampling rate. [[Github Link]](https://github.com/aksh98/Audio_super_Resolution)
+
+## Augmented Reality Helmets for kids 
+Made interactive helmets to make kids' journeys interesting and informational. A step to reduce accident deaths due to absence of helmets in pillion riders [[Github Link]](https://github.com/aksh98/ARHelmetForKids)
 
 ## 2D to 3D 
 A system that creates a 3D scene using objects synthesized from paper drawings and sketches.[[Github Link]](https://github.com/aksh98/2D-to-3D)
